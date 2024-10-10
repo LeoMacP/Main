@@ -1,0 +1,16 @@
+C:\Users\000482373\source\repos\CarBuilder\bin\Debug\net8.0-windows\CarBuilder.exe
+C:\Users\000482373\source\repos\CarBuilder\bin\Debug\net8.0-windows\CarBuilder.deps.json
+C:\Users\000482373\source\repos\CarBuilder\bin\Debug\net8.0-windows\CarBuilder.runtimeconfig.json
+C:\Users\000482373\source\repos\CarBuilder\bin\Debug\net8.0-windows\CarBuilder.dll
+C:\Users\000482373\source\repos\CarBuilder\bin\Debug\net8.0-windows\CarBuilder.pdb
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\CarBuilder.Form1.resources
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\CarBuilder.csproj.GenerateResource.cache
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\CarBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\CarBuilder.AssemblyInfoInputs.cache
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\CarBuilder.AssemblyInfo.cs
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\CarBuilder.csproj.CoreCompileInputs.cache
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\CarBuilder.dll
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\refint\CarBuilder.dll
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\CarBuilder.pdb
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\CarBuilder.genruntimeconfig.cache
+C:\Users\000482373\source\repos\CarBuilder\obj\Debug\net8.0-windows\ref\CarBuilder.dll
